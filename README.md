@@ -1,0 +1,2 @@
+# BoothPictureDownload
+列出磁碟檔案名稱到Booth搜尋 然後下載第一張產品圖片
